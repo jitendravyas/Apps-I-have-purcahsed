@@ -31,7 +31,8 @@ Dropzone 3
 Hammer
 MindNode Pro, v1.11 - ₹ 620
 Pasteasy
-Flamingo
+Flamingo, v1.3.0 - ₹ 620
+Moom, v3.2 - ₹ 620
 Leaf - The News Reader, v3.1 - ₹ 250
 Deliveries: a package tracker, v1.0.1 - ₹ 250
 Unclutter, v1.3.3 - ₹ 120
